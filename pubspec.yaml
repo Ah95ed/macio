@@ -1,0 +1,34 @@
+name: point_of_sell
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+
+environment:
+  sdk: '>=3.7.2 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons:
+  http: 
+  shared_preferences: 
+  image_picker: 
+  firebase_core: 
+  firebase_auth: 
+  flutter_svg: 
+  intl: 
+  path_provider: 
+  uuid: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  #  assets:
+  #   - assets/icons/
+  #   - assets/image/
+  uses-material-design: true
